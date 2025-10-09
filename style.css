@@ -1,0 +1,22 @@
+/* root colors */
+:root{
+    --white-color: #FFFFFF;
+    --black-color: #222222;
+    --lorange-color: #FD8D3A;
+    --orange-colour:#FA7436;
+    --grey-color: #666666;
+}
+
+*,
+*::after,
+*::before
+{
+  box-sizing: border-box;
+}
+body{
+    margin: 0;
+     font-family: "Volkhov", serif;
+     font-family: "Poppins", sans-serif;
+
+} 
+/* base styling done */
